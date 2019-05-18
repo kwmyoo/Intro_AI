@@ -1,0 +1,2 @@
+a <=> (b | c | (d & e) | (d & f))
+(b | c | ~a | f | e) & (~c | a) & (a | ~b) & (~d | a | ~e) & (~f | ~d | a) & (b | c | ~a | d | e) & (b | c | ~a | d) & (b | c | ~a | f | d)

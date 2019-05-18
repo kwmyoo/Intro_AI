@@ -1,0 +1,7 @@
+# Sample test case format to use when using the text_to_npz.py utility
+I=[2, 1, 1]
+A=[[3], [3]]
+B=[3]
+C=[[0]]
+T=[[1],[2]]
+R=3

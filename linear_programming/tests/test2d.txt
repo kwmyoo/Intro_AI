@@ -1,0 +1,22 @@
+A B C D E F G H
+A 0.5
+B 1.0
++A +B C 0.2
++A -B C 0.3
+-A +B C 0.4
+-A -B C 0.5
++A D 0.6
+-A D 0.7
++C +D E 0.8
++C -D E 0.9
+-C +D E 1.0
+-C -D E 0.0
++E F 0.1
+-E F 0.25
+G 0.35
++F +G H 0.45
++F -G H 0.55
+-F +G H 0.65
+-F -G H 0.75
+
+H
