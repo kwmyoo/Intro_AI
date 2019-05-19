@@ -1,6 +1,3 @@
-Final submission should be:
+(1) Implementation of simplex algorithm using numpy matrix (and vector) functions
 
-A handin.zip archive containing:
-- written.pdf
-- milp.py
-- simplex.py
+(2) Mixed Integer Linear Programming (MILP) solver using gurobi
