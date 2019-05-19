@@ -1,6 +1,1 @@
-Final submission should be:
-
-A handin.zip archive containing:
-- written.pdf
-- milp.py
-- simplex.py
+Implementation of simplex algorithm by providing input to 
